@@ -1,0 +1,398 @@
+year,neighborhood,gross_rent
+2010,Alamo Square,1239
+2010,Anza Vista,1239
+2010,Bayview,1239
+2010,Buena Vista Park,1239
+2010,Central Richmond,1239
+2010,Central Sunset,1239
+2010,Corona Heights,1239
+2010,Cow Hollow,1239
+2010,Croker Amazon,1239
+2010,Diamond Heights,1239
+2010,Downtown ,1239
+2010,Eureka Valley/Dolores Heights,1239
+2010,Excelsior,1239
+2010,Financial District North,1239
+2010,Financial District South,1239
+2010,Forest Knolls,1239
+2010,Glen Park,1239
+2010,Golden Gate Heights,1239
+2010,Haight Ashbury,1239
+2010,Hayes Valley,1239
+2010,Hunters Point,1239
+2010,Ingleside ,1239
+2010,Inner Mission,1239
+2010,Inner Parkside,1239
+2010,Inner Richmond,1239
+2010,Inner Sunset,1239
+2010,Jordan Park/Laurel Heights,1239
+2010,Lake --The Presidio,1239
+2010,Lone Mountain,1239
+2010,Lower Pacific Heights,1239
+2010,Marina,1239
+2010,Miraloma Park,1239
+2010,Mission Bay,1239
+2010,Mission Dolores,1239
+2010,Mission Terrace,1239
+2010,Nob Hill,1239
+2010,Noe Valley,1239
+2010,Oceanview,1239
+2010,Outer Parkside,1239
+2010,Outer Richmond ,1239
+2010,Outer Sunset,1239
+2010,Pacific Heights,1239
+2010,Park North,1239
+2010,Parkside,1239
+2010,Parnassus/Ashbury Heights,1239
+2010,Portola,1239
+2010,Potrero Hill,1239
+2010,Presidio Heights,1239
+2010,Russian Hill,1239
+2010,South Beach,1239
+2010,South of Market,1239
+2010,Sunnyside,1239
+2010,Telegraph Hill,1239
+2010,Twin Peaks,1239
+2010,Union Square District,1239
+2010,Van Ness/ Civic Center,1239
+2010,West Portal,1239
+2010,Western Addition,1239
+2010,Yerba Buena,1239
+2011,Alamo Square,1530
+2011,Bayview,1530
+2011,Bernal Heights ,1530
+2011,Buena Vista Park,1530
+2011,Central Richmond,1530
+2011,Central Sunset,1530
+2011,Clarendon Heights,1530
+2011,Corona Heights,1530
+2011,Cow Hollow,1530
+2011,Croker Amazon,1530
+2011,Diamond Heights,1530
+2011,Downtown ,1530
+2011,Duboce Triangle,1530
+2011,Eureka Valley/Dolores Heights,1530
+2011,Financial District North,1530
+2011,Financial District South,1530
+2011,Glen Park,1530
+2011,Golden Gate Heights,1530
+2011,Haight Ashbury,1530
+2011,Hayes Valley,1530
+2011,Ingleside ,1530
+2011,Ingleside Heights,1530
+2011,Inner Mission,1530
+2011,Inner Richmond,1530
+2011,Inner Sunset,1530
+2011,Jordan Park/Laurel Heights,1530
+2011,Lake --The Presidio,1530
+2011,Lone Mountain,1530
+2011,Lower Pacific Heights,1530
+2011,Marina,1530
+2011,Miraloma Park,1530
+2011,Mission Bay,1530
+2011,Mission Dolores,1530
+2011,Nob Hill,1530
+2011,Noe Valley,1530
+2011,North Beach,1530
+2011,North Waterfront,1530
+2011,Outer Mission,1530
+2011,Outer Parkside,1530
+2011,Outer Richmond ,1530
+2011,Outer Sunset,1530
+2011,Pacific Heights,1530
+2011,Park North,1530
+2011,Parkside,1530
+2011,Parnassus/Ashbury Heights,1530
+2011,Portola,1530
+2011,Potrero Hill,1530
+2011,Presidio Heights,1530
+2011,Russian Hill,1530
+2011,South Beach,1530
+2011,South of Market,1530
+2011,Sunnyside,1530
+2011,Telegraph Hill,1530
+2011,Twin Peaks,1530
+2011,Union Square District,1530
+2011,Van Ness/ Civic Center,1530
+2011,Western Addition,1530
+2011,Westwood Highlands,1530
+2011,Yerba Buena,1530
+2012,Alamo Square,2324
+2012,Anza Vista,2324
+2012,Bayview,2324
+2012,Bernal Heights ,2324
+2012,Buena Vista Park,2324
+2012,Central Richmond,2324
+2012,Central Sunset,2324
+2012,Corona Heights,2324
+2012,Cow Hollow,2324
+2012,Croker Amazon,2324
+2012,Diamond Heights,2324
+2012,Downtown ,2324
+2012,Duboce Triangle,2324
+2012,Eureka Valley/Dolores Heights,2324
+2012,Excelsior,2324
+2012,Financial District North,2324
+2012,Financial District South,2324
+2012,Forest Knolls,2324
+2012,Haight Ashbury,2324
+2012,Hayes Valley,2324
+2012,Inner Mission,2324
+2012,Inner Richmond,2324
+2012,Inner Sunset,2324
+2012,Jordan Park/Laurel Heights,2324
+2012,Lake --The Presidio,2324
+2012,Lone Mountain,2324
+2012,Lower Pacific Heights,2324
+2012,Marina,2324
+2012,Merced Heights,2324
+2012,Midtown Terrace,2324
+2012,Miraloma Park,2324
+2012,Mission Bay,2324
+2012,Mission Dolores,2324
+2012,Nob Hill,2324
+2012,Noe Valley,2324
+2012,North Beach,2324
+2012,North Waterfront,2324
+2012,Oceanview,2324
+2012,Outer Mission,2324
+2012,Outer Parkside,2324
+2012,Outer Richmond ,2324
+2012,Outer Sunset,2324
+2012,Pacific Heights,2324
+2012,Park North,2324
+2012,Parkside,2324
+2012,Parnassus/Ashbury Heights,2324
+2012,Portola,2324
+2012,Potrero Hill,2324
+2012,Presidio Heights,2324
+2012,Russian Hill,2324
+2012,South of Market,2324
+2012,Telegraph Hill,2324
+2012,Twin Peaks,2324
+2012,Union Square District,2324
+2012,Van Ness/ Civic Center,2324
+2012,West Portal,2324
+2012,Western Addition,2324
+2012,Yerba Buena,2324
+2013,Alamo Square,2971
+2013,Anza Vista,2971
+2013,Bayview,2971
+2013,Bernal Heights ,2971
+2013,Buena Vista Park,2971
+2013,Central Richmond,2971
+2013,Central Sunset,2971
+2013,Clarendon Heights,2971
+2013,Cow Hollow,2971
+2013,Croker Amazon,2971
+2013,Diamond Heights,2971
+2013,Downtown ,2971
+2013,Eureka Valley/Dolores Heights,2971
+2013,Excelsior,2971
+2013,Financial District North,2971
+2013,Glen Park,2971
+2013,Golden Gate Heights,2971
+2013,Haight Ashbury,2971
+2013,Hayes Valley,2971
+2013,Inner Mission,2971
+2013,Inner Richmond,2971
+2013,Inner Sunset,2971
+2013,Jordan Park/Laurel Heights,2971
+2013,Lake --The Presidio,2971
+2013,Lone Mountain,2971
+2013,Lower Pacific Heights,2971
+2013,Marina,2971
+2013,Midtown Terrace,2971
+2013,Mission Bay,2971
+2013,Mission Dolores,2971
+2013,Mission Terrace,2971
+2013,Nob Hill,2971
+2013,Noe Valley,2971
+2013,North Beach,2971
+2013,North Waterfront,2971
+2013,Outer Parkside,2971
+2013,Outer Richmond ,2971
+2013,Outer Sunset,2971
+2013,Pacific Heights,2971
+2013,Park North,2971
+2013,Parkside,2971
+2013,Parnassus/Ashbury Heights,2971
+2013,Portola,2971
+2013,Potrero Hill,2971
+2013,Presidio Heights,2971
+2013,Russian Hill,2971
+2013,South of Market,2971
+2013,Sunnyside,2971
+2013,Telegraph Hill,2971
+2013,Twin Peaks,2971
+2013,Union Square District,2971
+2013,Van Ness/ Civic Center,2971
+2013,Visitacion Valley,2971
+2013,West Portal,2971
+2013,Western Addition,2971
+2013,Westwood Highlands,2971
+2013,Yerba Buena,2971
+2014,Alamo Square,3528
+2014,Anza Vista,3528
+2014,Bayview,3528
+2014,Bernal Heights ,3528
+2014,Central Richmond,3528
+2014,Central Sunset,3528
+2014,Corona Heights,3528
+2014,Cow Hollow,3528
+2014,Downtown ,3528
+2014,Duboce Triangle,3528
+2014,Eureka Valley/Dolores Heights,3528
+2014,Excelsior,3528
+2014,Financial District North,3528
+2014,Financial District South,3528
+2014,Glen Park,3528
+2014,Golden Gate Heights,3528
+2014,Haight Ashbury,3528
+2014,Hayes Valley,3528
+2014,Ingleside ,3528
+2014,Inner Mission,3528
+2014,Inner Parkside,3528
+2014,Inner Richmond,3528
+2014,Inner Sunset,3528
+2014,Jordan Park/Laurel Heights,3528
+2014,Lake --The Presidio,3528
+2014,Lone Mountain,3528
+2014,Lower Pacific Heights,3528
+2014,Marina,3528
+2014,Merced Heights,3528
+2014,Miraloma Park,3528
+2014,Mission Bay,3528
+2014,Mission Dolores,3528
+2014,Mission Terrace,3528
+2014,Nob Hill,3528
+2014,Noe Valley,3528
+2014,North Waterfront,3528
+2014,Outer Parkside,3528
+2014,Outer Richmond ,3528
+2014,Outer Sunset,3528
+2014,Pacific Heights,3528
+2014,Park North,3528
+2014,Parkside,3528
+2014,Parnassus/Ashbury Heights,3528
+2014,Portola,3528
+2014,Potrero Hill,3528
+2014,Presidio Heights,3528
+2014,Russian Hill,3528
+2014,Silver Terrace,3528
+2014,South Beach,3528
+2014,South of Market,3528
+2014,Sunnyside,3528
+2014,Telegraph Hill,3528
+2014,Twin Peaks,3528
+2014,Union Square District,3528
+2014,Van Ness/ Civic Center,3528
+2014,Visitacion Valley,3528
+2014,West Portal,3528
+2014,Western Addition,3528
+2014,Westwood Park,3528
+2014,Yerba Buena,3528
+2015,Alamo Square,3739
+2015,Anza Vista,3739
+2015,Bayview Heights,3739
+2015,Bernal Heights ,3739
+2015,Buena Vista Park,3739
+2015,Central Richmond,3739
+2015,Central Sunset,3739
+2015,Corona Heights,3739
+2015,Cow Hollow,3739
+2015,Croker Amazon,3739
+2015,Downtown ,3739
+2015,Duboce Triangle,3739
+2015,Eureka Valley/Dolores Heights,3739
+2015,Excelsior,3739
+2015,Financial District North,3739
+2015,Financial District South,3739
+2015,Glen Park,3739
+2015,Golden Gate Heights,3739
+2015,Haight Ashbury,3739
+2015,Hayes Valley,3739
+2015,Hunters Point,3739
+2015,Ingleside ,3739
+2015,Inner Mission,3739
+2015,Inner Parkside,3739
+2015,Inner Richmond,3739
+2015,Inner Sunset,3739
+2015,Jordan Park/Laurel Heights,3739
+2015,Lake --The Presidio,3739
+2015,Lone Mountain,3739
+2015,Lower Pacific Heights,3739
+2015,Marina,3739
+2015,Mission Dolores,3739
+2015,Mission Terrace,3739
+2015,Nob Hill,3739
+2015,Noe Valley,3739
+2015,North Beach,3739
+2015,North Waterfront,3739
+2015,Oceanview,3739
+2015,Outer Mission,3739
+2015,Outer Parkside,3739
+2015,Outer Richmond ,3739
+2015,Outer Sunset,3739
+2015,Pacific Heights,3739
+2015,Park North,3739
+2015,Parkside,3739
+2015,Parnassus/Ashbury Heights,3739
+2015,Potrero Hill,3739
+2015,Presidio Heights,3739
+2015,Russian Hill,3739
+2015,South of Market,3739
+2015,Sunnyside,3739
+2015,Telegraph Hill,3739
+2015,Twin Peaks,3739
+2015,Union Square District,3739
+2015,Van Ness/ Civic Center,3739
+2015,Visitacion Valley,3739
+2015,Western Addition,3739
+2015,Yerba Buena,3739
+2016,Alamo Square,4390
+2016,Anza Vista,4390
+2016,Bernal Heights ,4390
+2016,Buena Vista Park,4390
+2016,Central Richmond,4390
+2016,Central Sunset,4390
+2016,Cow Hollow,4390
+2016,Croker Amazon,4390
+2016,Downtown ,4390
+2016,Eureka Valley/Dolores Heights,4390
+2016,Excelsior,4390
+2016,Financial District North,4390
+2016,Glen Park,4390
+2016,Haight Ashbury,4390
+2016,Hayes Valley,4390
+2016,Ingleside Heights,4390
+2016,Inner Mission,4390
+2016,Inner Parkside,4390
+2016,Inner Richmond,4390
+2016,Inner Sunset,4390
+2016,Jordan Park/Laurel Heights,4390
+2016,Lower Pacific Heights,4390
+2016,Marina,4390
+2016,Merced Heights,4390
+2016,Mission Bay,4390
+2016,Mission Terrace,4390
+2016,Nob Hill,4390
+2016,Noe Valley,4390
+2016,North Beach,4390
+2016,Outer Mission,4390
+2016,Outer Parkside,4390
+2016,Outer Richmond ,4390
+2016,Outer Sunset,4390
+2016,Pacific Heights,4390
+2016,Park North,4390
+2016,Parnassus/Ashbury Heights,4390
+2016,Potrero Hill,4390
+2016,Presidio Heights,4390
+2016,Russian Hill,4390
+2016,South of Market,4390
+2016,Sunnyside,4390
+2016,Telegraph Hill,4390
+2016,Twin Peaks,4390
+2016,Van Ness/ Civic Center,4390
+2016,Visitacion Valley,4390
+2016,Westwood Park,4390
